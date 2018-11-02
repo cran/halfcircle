@@ -1,0 +1,13 @@
+65a79f48bbb5254e3ba159957da29184 *DESCRIPTION
+bd8eea929e07fadbce0bbb542433cfa9 *LICENSE
+7534be7425b01fd3ce31a785f1c8d530 *NAMESPACE
+e9c195048f4024440a1c69065cb504e6 *R/ex_flow.R
+0221165107a8ee3f2708e0c6bedab727 *R/ex_node.R
+9a522120cd3945d4d3930c72fa97b1ca *R/halfcircle.R
+6f1ecf720795db19a3ab1294db5892c9 *R/halfmeancenter.R
+a468ea5335655904e281d1a86ff4e096 *data/ex_flow.rda
+0f1ef76626586674ce82f706b7294acf *data/ex_node.rda
+f367d8405cf5091dcbde11c7b532e3e2 *man/ex_flow.Rd
+dce1d1ecb8269ade8f89de94ac001aec *man/ex_node.Rd
+b157f48271da32af8547bd5552b4d201 *man/halfcircle.Rd
+f52fd5a8e142aa96f691ae77d85aecca *man/halfmeancenter.Rd
